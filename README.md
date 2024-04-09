@@ -1,0 +1,2 @@
+# Bozmadde
+discord bot denemesi.
